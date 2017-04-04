@@ -46,7 +46,7 @@ The iOS or Android project that you create should be put into the app folder.
 
 You will need to call a real Skyscanner API for this task.
 
-The underlying Skyscanner [API documentation is available here](https://github.com/Skyscanner/api-documentation/tree/master/live_flights_pricing) and a [test harness is provided](http://business.skyscanner.net/portal/en-GB/Documentation/FlightsLivePricingQuickStart) for you to try queries out.
+The underlying Skyscanner [API documentation is available here](https://skyscanner.github.io/slate/#flights-live-prices) and a [test harness is provided](http://business.skyscanner.net/portal/en-GB/Documentation/FlightsLivePricingQuickStart) for you to try queries out.
 
 You can use the Skyscanner `sky` location schema, and the `EDI-sky` and `LOND-sky` placenames in your query.
 
